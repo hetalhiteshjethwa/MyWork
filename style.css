@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+  background-image: linear-gradient(to bottom right, orange, red);
+background-repeat: no-repeat;
+}
+h1{
+  font-family: sans-serif;
+  color: black;
+}
+p{
+  font-family: cursive;
+  color: black;
+  font-size: 36px;
+}
